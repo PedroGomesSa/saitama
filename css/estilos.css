@@ -1,0 +1,27 @@
+body{
+    background-image: url('https://i.pinimg.com/originals/08/f3/a1/08f3a12670c11a82e6b0dd06e41096df.png');
+    background-size: auto 170vh;
+    height: 100vh; 
+    font-family: arial;
+    background-repeat: ;
+    background-clip: border-box; 
+    }
+    .menu li{
+    background-color: pink; 
+    list-style: none;
+    }
+    .menu ul{
+    display: flex;
+    justify-content: space-around; 
+    }
+    a{
+    text-decoration: none;
+    color: black;
+    }
+    a:hover {
+    text-decoration: underline;  
+      }
+    .site-subtitle,
+    .site-title{
+    text-align: center; 
+    }
